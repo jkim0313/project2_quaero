@@ -1,0 +1,50 @@
+,Feature,Lasso,Stepwise,RFE,Chi-2,LR,RF,Total
+0,총자본증가율,False,True,True,False,False,True,3
+1,순이익증가율,True,False,False,False,False,True,2
+2,자기자본증가율,False,False,False,False,False,False,0
+3,매출액증가율,False,False,True,False,False,True,2
+4,종업원수증가율,False,True,True,False,True,True,4
+5,정상영업손익증가율,True,True,False,False,False,True,3
+6,매출액정상영업이익률,False,True,False,False,False,True,2
+7,매출액순이익률,False,False,True,False,False,True,2
+8,총자본순이익률,False,False,True,True,True,False,3
+9,총자본정상영업이익률,False,True,True,True,True,True,5
+10,자기자본정상영업이익률,False,False,False,True,True,True,3
+11,자기자본순이익률,False,False,False,False,False,True,1
+12,금융비용부담률,False,True,False,False,True,False,2
+13,수지비율,False,False,True,True,True,True,4
+14,사내유보 대 자기자본비율,False,True,False,False,False,False,1
+15,1주당매출액,True,False,False,True,False,False,2
+16,1주당순이익,True,True,False,False,False,False,2
+17,1주당 CASH FLOW,False,False,False,False,False,False,0
+18,1주당순자산,True,False,False,True,False,False,2
+19,유보율,True,True,False,True,False,False,3
+20,자기자본구성비율,False,True,True,False,True,False,3
+21,유동비율,False,False,False,False,False,False,0
+22,당좌비율,False,False,False,False,False,False,0
+23,현금비율,False,False,False,False,False,True,1
+24,매출채권 대 매입채무비율,True,False,False,False,False,False,1
+25,부채비율,False,False,False,True,False,False,1
+26,이자보상배율,True,True,False,False,False,True,3
+27,CASH FLOW 대 부채비율,False,False,False,False,False,False,0
+28,CASH FLOW 대 차입금비율,True,False,False,False,False,False,1
+29,CASH FLOW 대 총자본비율,False,True,True,True,True,False,4
+30,CASH FLOW 대 매출액비율,False,False,False,False,False,False,0
+31,재고자산대순운전자본비율,False,False,False,False,False,False,0
+32,총자본투자효율,False,False,False,True,True,False,2
+33,설비투자효율,True,False,False,False,False,False,1
+34,기계투자효율,True,False,False,False,False,False,1
+35,부가가치율,False,False,False,False,False,False,0
+36,노동소득분배율,False,False,False,False,False,False,0
+37,종업원1인당부가가치율_계산,False,False,False,False,False,False,0
+38,노동장비율_계산,False,False,False,False,False,False,0
+39,기계장비율_계산,False,False,False,False,False,False,0
+40,자본집약도_계산,False,False,False,False,False,False,0
+41,총자본회전률,False,False,True,True,True,False,3
+42,자기자본회전률,False,False,True,False,True,False,2
+43,타인자본회전률,False,False,True,True,True,False,3
+44,유동자산회전률,False,True,True,True,True,False,4
+45,당좌자산회전률,False,False,True,True,True,False,3
+46,재고자산회전률,True,False,False,False,False,False,1
+47,매출채권회전률,False,False,False,False,False,False,0
+48,순운전자본회전률,False,True,True,True,True,False,4

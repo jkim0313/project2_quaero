@@ -1,27 +1,27 @@
 ,Feature,Lasso,Stepwise,RFE,Chi-2,LR,RF,Total
 0,자기자본정상영업이익률,True,True,True,True,True,True,6
-1,자기자본순이익률,True,True,False,False,False,True,3
-2,금융비용부담률,True,True,False,False,True,True,4
-3,수지비율,False,False,False,False,True,True,2
-4,사내유보 대 자기자본비율,False,False,False,False,False,True,1
+1,자기자본순이익률,True,False,False,False,False,True,2
+2,금융비용부담률,True,True,True,False,True,True,5
+3,수지비율,False,False,True,True,True,True,4
+4,사내유보 대 자기자본비율,False,False,True,False,True,True,3
 5,1주당매출액,False,True,True,True,True,False,4
-6,1주당순이익,False,False,True,False,False,True,2
-7,1주당 CASH FLOW,False,True,True,False,False,False,2
-8,1주당순자산,False,False,True,False,True,False,2
-9,유보율,True,False,True,True,True,False,4
-10,부채비율,False,True,False,True,False,False,2
+6,1주당순이익,False,False,True,True,False,False,2
+7,1주당 CASH FLOW,False,False,True,False,True,False,2
+8,1주당순자산,False,False,True,True,True,False,3
+9,유보율,True,True,True,True,True,False,5
+10,부채비율,False,False,False,True,False,False,1
 11,CASH FLOW 대 부채비율,False,False,False,False,False,False,0
-12,CASH FLOW 대 총자본비율,True,True,True,False,True,False,4
+12,CASH FLOW 대 총자본비율,True,True,True,True,True,False,5
 13,CASH FLOW 대 매출액비율,False,False,False,False,False,False,0
-14,총자본투자효율,True,True,True,False,True,False,4
-15,설비투자효율,False,False,False,False,False,False,0
-16,부가가치율,False,False,False,False,False,False,0
+14,총자본투자효율,True,True,True,True,True,False,5
+15,설비투자효율,False,False,False,False,True,False,1
+16,부가가치율,False,True,True,False,True,False,3
 17,노동소득분배율,False,False,False,False,False,False,0
-18,종업원1인당부가가치율_계산,False,False,False,False,False,True,1
+18,종업원1인당부가가치율_계산,False,False,True,False,True,True,3
 19,유동자산회전률,False,True,True,True,True,False,4
 20,당좌자산회전률,False,False,False,True,False,False,1
 21,재고자산회전률,False,True,False,True,False,False,2
 22,자기자본구성비율,True,False,False,False,False,False,1
-23,총자본회전률,False,True,False,True,False,False,2
+23,총자본회전률,False,False,False,True,False,False,1
 24,타인자본회전률,False,False,False,True,False,False,1
 25,순운전자본회전률,True,True,True,True,True,False,5
