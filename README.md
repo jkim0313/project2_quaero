@@ -1,7 +1,7 @@
 # project2_quaero
 UBION 금융 빅데이터 4기 Project 2 팀 quaero
 
-#주요 코드 파일 : 
+# 주요 코드 파일 : 
 - preprocess_final                    - 전처리
 - raw_normality_test                  - raw data 정규성 검정
 - rbscaled_normality_test             - RobustScaler 후 정규성 검정
