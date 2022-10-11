@@ -25,5 +25,5 @@
 - data/층화표본/층화표본_train_dataset1_general_win+robust.csv       리샘플링
 - data/테스트셋/Ver1_test_확장기1.csv                                리샘플링
 - data/테스트셋/Ver1_test_수축기1.csv                                리샘플링
-- data/테스트셋/Ver1_test_확장기2.csv                                리샘플링
-- data/테스트셋/Ver1_test_수축기2.csv                                리샘플링
+- data/테스트셋/Ver2_test_확장기2.csv                                리샘플링
+- data/테스트셋/Ver2_test_수축기2.csv                                리샘플링
