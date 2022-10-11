@@ -1,5 +1,6 @@
 # project2_quaero
-UBION 금융 빅데이터 4기 Project 2 팀 quaero
+## UBION 금융 빅데이터 4기 Project 2 팀 quaero
+## 주제 : 머신러닝을 활용한 경기순환국면별 기업부실화 예측 모델
 
 ### 주요 코드 파일 : 
 - preprocess_final                    - 전처리
